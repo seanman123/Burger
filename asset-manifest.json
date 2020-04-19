@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/seanman123/Burger/static/css/main.bd9a8cdf.chunk.css",
+    "main.js": "/seanman123/Burger/static/js/main.62288eed.chunk.js",
+    "main.js.map": "/seanman123/Burger/static/js/main.62288eed.chunk.js.map",
+    "runtime-main.js": "/seanman123/Burger/static/js/runtime-main.bad016a0.js",
+    "runtime-main.js.map": "/seanman123/Burger/static/js/runtime-main.bad016a0.js.map",
+    "static/js/2.93a8bd35.chunk.js": "/seanman123/Burger/static/js/2.93a8bd35.chunk.js",
+    "static/js/2.93a8bd35.chunk.js.map": "/seanman123/Burger/static/js/2.93a8bd35.chunk.js.map",
+    "index.html": "/seanman123/Burger/index.html",
+    "precache-manifest.7ed7a1a14f87352f77f3b60ae80ff3fd.js": "/seanman123/Burger/precache-manifest.7ed7a1a14f87352f77f3b60ae80ff3fd.js",
+    "service-worker.js": "/seanman123/Burger/service-worker.js",
+    "static/css/main.bd9a8cdf.chunk.css.map": "/seanman123/Burger/static/css/main.bd9a8cdf.chunk.css.map",
+    "static/js/2.93a8bd35.chunk.js.LICENSE.txt": "/seanman123/Burger/static/js/2.93a8bd35.chunk.js.LICENSE.txt",
+    "static/media/burger.png": "/seanman123/Burger/static/media/burger.b8503d26.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bad016a0.js",
+    "static/js/2.93a8bd35.chunk.js",
+    "static/css/main.bd9a8cdf.chunk.css",
+    "static/js/main.62288eed.chunk.js"
+  ]
+}
